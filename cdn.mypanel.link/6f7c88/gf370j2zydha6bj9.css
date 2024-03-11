@@ -9,7 +9,7 @@
   color:#fff;
 }
 .feaBox .icon, .serBox .icon {
-    background-color: #e95420 !important;
+    background-color: hsl(228.29deg 67.21% 11.96%) !important;
 }
 .feaBox .icon i,
 .serBox .icon i {
@@ -1280,7 +1280,7 @@ img {
     max-width: 100%;
 }
 div.topStrip {
-    background-color: #e95420;
+    background-color: hsl(228.29deg 67.21% 11.96%);
     text-align: right;
     padding: 10px 0;
 }
@@ -1306,8 +1306,9 @@ div.topStrip ul li a i {
 
 body.guest nav.navbar {
     margin: 0;
-    background-color: transparent;
-  border: 0;
+    padding: 20px;
+    background-color: hsl(228.29deg 67.21% 11.96%);
+    border: 0;
     background-image: none;
   box-shadow: none;
 }
@@ -1336,7 +1337,7 @@ body.guest nav.navbar li.active a {
 }
 body.guest nav.navbar li a {
     background-color: transparent;
-    color: #000;
+    color: #fff;
     font-size: 13px;
     text-transform: capitalize;
     padding: 8px 20px;
@@ -1351,10 +1352,9 @@ body.guest nav.navbar li a {
       background-color:transparent;
   }
 body.guest nav.navbar li:last-child a {
-    background-color: #e95420;
-    color:#fff;
+    background-color: #2577db;
+    color: #0a1233;
 }
-
 
 .row.tabsANDsearch {
     margin: 0;
