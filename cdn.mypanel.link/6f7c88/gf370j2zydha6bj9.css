@@ -2594,6 +2594,7 @@ body.guest.elsePage .well.noPadWell {
     img.shoutingGirl {
         margin: 0 0 0 auto;
         width: 200px;
+        margin-top: 50px;
     }
     section.formSec ul.customBtns {
         margin: 20px 0 0;
@@ -2682,6 +2683,7 @@ body.guest.elsePage .well.noPadWell {
     }
     section.secondSec {
         padding: 0 0 40px;
+        margin-top: 90px;
     }
     section.secondSec .col-sm-6:first-child,
     section.secondSec .col-sm-6:last-child,
