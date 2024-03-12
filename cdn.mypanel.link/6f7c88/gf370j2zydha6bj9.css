@@ -1524,8 +1524,8 @@ section.formSec ul.customBtns li a {
     color: #fff;
 }
 section.formSec ul.customBtns li:first-child a {
-    background-color: #e95420;
-    box-shadow: 3px 4px 0 0px #d9430f;
+    background-color: #2577db;
+    box-shadow: 3px 4px 0 0px #0a1233;
 }
 section.formSec ul.customBtns li:last-child a {
     background-color: #efefef;
@@ -1608,8 +1608,6 @@ section.secondSec::before {
 }
 section.secondSec::after {
     content: '';
-    background-image: url('mrd7b94giuc71hns.png');
-    background-repeat: no-repeat;
     position: absolute;
     width: 200px;
     height: 100%;
@@ -1651,19 +1649,6 @@ section.secondSec .col-sm-6:first-child {
 section.secondSec .col-sm-6:last-child {
     width: 55%;
 }
-/* section.secondSec .col-sm-6:first-child::before {
-    content: '';
-    background-image: url('https://res.cloudinary.com/myhostedfiles/image/upload/v1552292106/smmglobe/secondSecpic.png');
-    width: 520px;
-    display: block;
-    height: 520px;
-    position: absolute;
-    left: -62px;
-    background-size: 100%;
-    top: 0;
-    background-repeat: no-repeat;
-} */
-
 section.secondSec ul {
     padding: 0;
     margin: 40px 0 0;
@@ -1762,7 +1747,7 @@ section.thirdSec {
     padding: 40px 0;
 }
 section.thirdSec .row {
-    background-color: #e95420;
+    background-color: #0a1233;
     margin: 0;
     padding: 25px 15px;
     border-radius: 60px;
@@ -1786,7 +1771,7 @@ section.thirdSec a {
     font-weight: 500;
     border-radius: 50px;
     float: right;
-    color: #e95420;
+    color: #0a1233;
 }
 
 
@@ -1836,7 +1821,7 @@ section.fourthSec::after {
     z-index: -1;
 }
 section.fourthSec .row.chatRow {
-    background-color: #e95420;
+    background-color: #0a1233;
     margin: 0 0 0;
     padding: 25px 15px;
     border-radius: 60px;
@@ -2090,7 +2075,7 @@ section.seventhSec .next-arrow {
 
 
 footer {
-    background-color: #e95420;
+    background-color: #0a1233;
     padding: 80px 0 0;
     color: #fff;
 }
@@ -2679,7 +2664,7 @@ body.guest.elsePage .well.noPadWell {
         background-color: #f4c618;
     }
     body.guest nav.navbar #navbar {
-        background-color: #444b54;
+        background-color: #0a1233;
     }
     body.guest nav.navbar.darkNav .navbar-toggle {
       border-color: #f4c618;
